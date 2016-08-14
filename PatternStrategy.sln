@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPoly", "ConsoleApplication69\StrategyPoly.csproj", "{CAE618FD-637C-40BB-A058-0865304E0ED0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPoly", "StrategyPoly\StrategyPoly.csproj", "{CAE618FD-637C-40BB-A058-0865304E0ED0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDele", "StrategyDele\StrategyDele.csproj", "{F5ACDBBE-7054-4196-BF23-224887899025}"
 EndProject
